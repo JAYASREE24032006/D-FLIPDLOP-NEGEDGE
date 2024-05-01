@@ -27,6 +27,7 @@ Therefore, D flip-flop always Hold the information, which is available on data i
 Next state of D flip-flop is always equal to data input, D for every positive transition of the clock signal. Hence, D flip-flops can be used in registers, shift registers and some of the counters.
 
 **Procedure:**
+
 1.Define Module: Define a Verilog module for the D flip-flop with inputs (D, CLK) and outputs (Q, Q_ bar).
 
 2.Declare Inputs and Outputs: Declare input and output ports for the module.
@@ -67,4 +68,5 @@ endmodule
 
 
 **RESULTS:**
+
 Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables.
